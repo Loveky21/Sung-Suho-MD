@@ -6,13 +6,13 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-    SESSION_ID: process.env.SESSION_ID || "",
+    SESSION_ID: process.env.SESSION_ID || "suho~0rlhlDDT#nSho588-zzxllhiBIdVZ2JK1XMp27cVzEtrKU01Q3s8",
     // add your Session Id make sure it starts with suho~
 
-    PREFIX: process.env.PREFIX || ".",
+    PREFIX: process.env.PREFIX || "£",
     // add your prefix for bot
 
-    BOT_NAME: process.env.BOT_NAME || "sᴜɴɢ-sᴜʜᴏ-ᴍᴅ",
+    BOT_NAME: process.env.BOT_NAME || "●⃝🖤᭄ 𝗦.𝗫.𝗢 ⦿𝗦𝗨𝗞𝗨𝗡𝗔 ●⃝❤️‍🔥",
     // add bot name here for menu
 
     MODE: process.env.MODE || "public",
@@ -64,7 +64,7 @@ module.exports = {
 > ɢɪᴛʜᴜʙ : github.com/NaCkS-ai/SungSu-ho-MD`,
     // add alive msg here 
 
-    STICKER_NAME: process.env.STICKER_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
+    STICKER_NAME: process.env.STICKER_NAME || "●⃝🖤᭄ 𝗦.𝗫.𝗢 ⦿𝗦𝗨𝗞𝗨𝗡𝗔 ●⃝❤️‍🔥",
     // type sticker pack name 
 
     CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -76,11 +76,11 @@ module.exports = {
     DELETE_LINKS: process.env.DELETE_LINKS || "false",
     // automatic delete links without removing member 
 
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "27813374457",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "50931613178",
     // add your bot owner number
 
-    OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴛᴇᴄʜ",
-    // add bot owner name
+    OWNER_NAME: process.env.OWNER_NAME || "●⃝🖤᭄ 𝗦.𝗫.𝗢 ⦿𝗦𝗨𝗞𝗨𝗡𝗔 ●⃝❤️‍🔥",
+    // 
 
     DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ sᴜɴɢ sᴜʜᴏ*",
     // add bot owner description  
